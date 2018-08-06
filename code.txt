@@ -1,0 +1,56 @@
+artists = {
+    "Maths": {
+        "FullName": "Mathematics",
+        "code":"MA-1101/1201";
+        "url":"";
+        "books":["Jain and Iyengar","B.S. Grewal"];
+        },
+    "Chemistry": {
+        "FullName": "Chemistry",
+        "code":"CY-1101/1201";
+        "url":"";
+        "books":["Jain and Jain(कोई फायदा नहीं :P )"];
+        },
+    "Mechanical": {
+        "FullName": "Mechanical",
+        "code":"ME-1102/1202";
+        "url":"";
+        "books":[""];
+        },
+    "Cse": {
+        "FullName": "Computer Programming",
+        "code":"CS:1101/1201";
+        "url":"";
+        "books":["C in Depth by Deepali Srivastava (Must for becoming a good programmer)"];
+        },
+    "English": {
+        "FullName": "English Language and Composition",
+        "code":"HS:1101/1201";
+        "url":"";
+        "books":["Libary notes (usually)"];
+        },
+    "Csw": {
+        "FullName": "Communication Skill Workshop",
+        "code":"HS:1102/1202";
+        "url":"";
+        "books":["Library notes (usually)"];
+        },
+    "engmech": {
+        "FullName": "Engineering Mechnanics",
+        "code":"AM-1101/1201";
+        "url":"";
+        "books":["Meriam and Kraige"];
+        },
+    "enggra": {
+        "FullName": "Engineering Graphics",
+        "code":"ME-1101/1201";
+        "url":"";
+        "books":["None"];
+        },
+    "eco": {
+        "FullName": "Ecology",
+        "code":"CE-1201";
+        "url":"";
+        "books":["None"];
+        },
+}
